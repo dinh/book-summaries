@@ -10,7 +10,7 @@ Intend to write about important challenges and choices of this century.
 Liberalism emerged victorious from the 20th century, defeating communism and fascism, but is now in trouble.
 Technological progress in information tech and biotech present new challenges. Will point out threats more than promises.
 Artificial intelligence and biotechnology are giving humanity the power to reshape and re-engineer life.
-“Philosophers are very patient people, but engineers are far less so, and investors are the least patient of all. If you don’t know hat to do with the power to engineer life, market forces will not wait a thousand years for you too come up with an answer.
+“Philosophers are very patient people, but engineers are far less so, and investors are the least patient of all. If you don’t know what to do with the power to engineer life, market forces will not wait a thousand years for you too come up with an answer.
 
 Will discuss shortcomings of the liberal worldview and the democratic system, because it is the most versatile and successful model humans have developed so far, so we much understand its limitations in order to understand how to adapt it.
 Critical thinking bout liberalism and democracy might be hijacked by autocrats and various illiberal movements, who are happy to debate the problems of liberal democracy, but will not tolerate criticism directed at them. “It is a mark of illiberal regimes that they make free speech more difficult even outside their borders.” As author, chose to take the risk of speaking openly in order to think critically about the future of our species.
@@ -183,7 +183,7 @@ Secularism’s strength has always been in also admitting its blind spots, for �
 
 ## Ch. 15 Ignorance
 
-Liberal thought and democracy believe in the rational individual. Yet we often think in groups and treat the knowledge in the minds of others as though it were our own, since we benefit from so much accumulated knowledge and engineering. The world is becoming increasingly complex, and people rarely appreciate their ignorance of what is going on. Scientists how to dispel wrong views through education, but “most of our views are shaped through communal groupthink rather than individual rationality, and we hold on to these views due to group loyalty. Most people don’t like too many facts, and they certainly don’t like to feel stupid.
+Liberal thought and democracy believe in the rational individual. Yet we often think in groups and treat the knowledge in the minds of others as though it were our own, since we benefit from so much accumulated knowledge and engineering. The world is becoming increasingly complex, and people rarely appreciate their ignorance of what is going on. Scientists how to dispel wrong views through education, but “most of our views are shaped through communal groupthink rather than individual rationality, and we hold on to these views due to group loyalty. Most people don’t like too many facts, and they certainly don’t like to feel stupid."
 
 #### The black hole of power
 
