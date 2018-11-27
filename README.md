@@ -1,2 +1,3 @@
-# book-summaries
-book summaries
+# Book summaries
+
+Notes and summaries of some books. 
