@@ -1,21 +1,21 @@
 # 21 lessons for the 21st Century
 
-## Intro:
+## Intro
 
 In a world deluged by irrelevant information, clarity is power.
 Intend to write about important challenges and choices of this century.
 
 #### Central questions:
 
-liberalism emerged victorious from the 20th century, defeating communism and fascism, but is now in trouble.
+Liberalism emerged victorious from the 20th century, defeating communism and fascism, but is now in trouble.
 Technological progress in information tech and biotech present new challenges. Will point out threats more than promises.
-Artificial intelligence and biotechnology are giving humanity the power to reshape and reengineer life.
+Artificial intelligence and biotechnology are giving humanity the power to reshape and re-engineer life.
 “Philosophers are very patient people, but engineers are far less so, and investors are the least patient of all. If you don’t know hat to do with the power to engineer life, market forces will not wait a thousand years for you too come up with an answer.
 
 Will discuss shortcomings of the liberal worldview and the democratic system, because it is the most versatile and successful model humans have developed so far, so we much understand its limitations in order to understand how to adapt i.
 Critical thinking bout liberalism and democracy might be hijacked by autocrats and various illiberal movements, who are happy to debate the problems of liberal democracy, but will not tolerate criticism directed at them. “It is a mark of illiberal regimes that they make free speech more difficult even outside their borders.” As author, chose to take the risk of speaking openly in order to think critically about the future of our species.
 
-## Ch 1. Disillusionment
+## Ch. 1 Disillusionment
 
 The liberal story emerged victorious from the 20th century. It celebrates the value and power of individual liberty, and sees the increasing liberalization and globalization of political and economic systems as the path to producing peace and prosperity for all. At the end of the 20th century, there was a sense of inevitability about the triumph of liberalism.
 However, after the 2008 financial crisis, people have become increasingly disillusioned with liberalism. There has been a resurgence of walls, firewalls, tariffs, and strongmen. Few would now confidently declare that the Chinese Communist Party is on the wrong side of history. 2016, with Brexit and Trump, marked the wave of disillusionment with liberalism reaching the west. Some missed the old hierarchical world and are unwilling to give up privilege, others have concluded liberalization and globalization are a racket empowering an elite at the expense of the masses.
@@ -32,7 +32,7 @@ Fascism and communism both had global narratives that challenged liberalism. In 
 People have expected their children to have better lives than them for several generation, but in the coming years, the younger generation might be lucky to simply preserve the same standard of living as their parents.
 Can liberalism reinvent itself again, like it did in the 30’s and 60’s, or is it time for a new story that goes beyond not only old gods and nations but even the core modern values of liberty and equality?
 
-## Ch 2. Work
+## Ch. 2 Work
 
 Will automation put many people out of work, or will it continue creating new, different types of jobs?
 Humans have physical and cognitive capabilities. In the industrial revolution, machines replaces lots of physical labor, but created new jobs that required cognitive labor. But when AI begins to outperform humans at jobs that require cognitive labor, we don’t know know of any third field of activity where humans will have an edge.
@@ -55,7 +55,7 @@ Also, “UBI” is supposed to cover basic needs, but once you provide something
 
 #### Defining liberalism:
 
-In politics, liberalism believes that the voter knows best. It therefore upholds democratic elections. in economics, liberalism maintains that the customer is always right. It therefore hails free-market principles. In personal matter, liberalism encourages people to listen to themselves, be true to thenmselves, and follow their hearts — as long as they do not infringe on the liberties of others. This personal freedom is enshrined in human rights.
+In politics, liberalism believes that the voter knows best. It therefore upholds democratic elections. in economics, liberalism maintains that the customer is always right. It therefore hails free-market principles. In personal matter, liberalism encourages people to listen to themselves, be true to themselves, and follow their hearts — as long as they do not infringe on the liberties of others. This personal freedom is enshrined in human rights.
 In this sense, both conservatives and “liberals” in the Western political spectrum still agree on many fundamental things. Both liberal and conservative politicians maintain that political authority comes from the feelings, choices, and free will of individual voters.
 Referendums and elections are always about human feelings, not human rationality. If democracy were a matter of rational decision-making, there would be no reason for equal voting rights, since some are far more knowledgeable and rational than others, especially in a real of expertise. This is a potential weakness of liberal democracy, because once somebody (whether in Beijing or San Francisco) gains the technological ability to hack and manipulate the human heart, democratic politics will mutate into an emotional puppet show.
 
@@ -112,7 +112,7 @@ Increasing engagement on digital platforms comes at the expense of real-world re
 The “clash of civilizations” thesis, that global mayhem is caused by clash between “Western civilization” and “Islamic Civilization”, is inherently flawed. Despite the fact that people still have different religions and national identities, when it comes to important markers of a civilization — the money, science, and even the concept of the nation-state itself — people are united in a global civilization. Religions of different societies used to have different approaches to treating illness, and currencies were very distinct. But now, even the group most adamant on establishing a global Islamic civilization, ISIS, uses Western medicine and recognizes the fungibility of dollar bills. All struggles now are essentially fraternal struggles within one civilization.
 Even if we wanted to separate back into distinct civilizations, the challenges of the 21st century are global in nature. Ecological devastation and technological acceleration cannot be addressed by one country alone.
 
-## Ch 7. Nationalism
+## Ch. 7 Nationalism
 
 Nationalism extends beyond familial and tribal boundaries to create mass loyalties. However, it becomes dangerous when it changes from caring about one’s country to only caring about one’s country at the expense of all others.
 
@@ -152,14 +152,14 @@ There is an overblown fear of terrorism, but in reality it is mainly an ideologi
 Normal war seeks to damage the enemy’s capacity to fight back, either structurally or logistically. Terrorism’s targeting of civilian targets with no military utility shows that they have no hope of actually damaging the enemy, but hope to strike a disproportionate amount of fear into them and provoke an overblown reaction that will give them an opening. Although senior military officers were killed at the Pentagon on 9/11, we mainly remember the twin towers falling because of the immense audiovisual effect. “Because we intuitively understand that terrorism is theater, we judge it by its emotional rather than material impact.” So our biggest danger from terrorist attacks is overreacting.
 States could quietly and forcefully suppress terrorists, which they often do, but sometimes after acts of violence that outrage the public, they overreact. “States find it difficult to withstand these provocation because the legitimacy of the modern state is based on its promise to keep the public sphere free of political violence.” In the middle ages, the ability to use violence was the entry ticket into the political game, and whoever lacked this lacked voice. Terrorism had no place in such a world, since anybody not strong enough to cause material damage was of no consequence. If a few muslim fanatics murdered civilians in Jerusalem, demanding that Crusaders leave the Holy Land, the reaction would have been ridicule instead of terror. However, now civilians consider it their right to be protected from violence, so a few acts of political violence become a threat to the legitimacy and even survival of the state. “the theater of terror generates visceral fears of anarchy, making people feel as if the social order is about to collapse. After centuries of bloody struggles we have crawled out of the black hold of violence, but we sense that the black hole is still there, patiently waiting to swallow us again. A few gruesome atrocities, an we imagine that we are falling back in. In order to assuage the fears, the state is driven to respond to the theater of terror with its own theater of security.”
 
-## Ch 11. War
+## Ch. 11 War
 
 The last few decades have been the most peaceful in human history. The 20th century was so bloody because at the start, great powers remembered many examples of successful wars that had enlarged their territory and enriched them. Now, almost nobody remembers a successful war. “In the age of conquerers, warfare was a low-damage, high profit affair. Nuclear weapons and cyberwarfare, by contrast, are high-damage, low-profit technologies. You can use such tools to destroy entire countries but not to build profitable empires.”
 However, despite war no longer being a great strategy, we should not underestimate the human capacity for stupidity.
 
-## Ch 12. Humility
+## Ch. 12 Humility
 
-Most peoples and culture place their own society at the center of their narrative about the world. This is silly and bad for rational decision making. Harari goes into an in-depth example of the Jews and Israel’s overblown sense of self-importance, since he is a Jew from Israel and therefore feels it is ok to criticize his own people’s lack of humility. He leaves it to other people to criticize their own traditions.
+Most peoples and culture place their own society at the center of their narrative about the world. This is silly and bad for rational decision making. Harari goes into an in-depth example of the Jews and Israel’s overblown sense of self-importance, since he is a Jew from Israel and therefore feels it is appropriate to criticize his own people’s lack of humility. He leaves it to other people to criticize their own traditions.
 
 ## Ch. 13 God
 
@@ -213,13 +213,17 @@ However, it is still worth striving to approximate the truth. How to avoid brain
 
 Talks about the Matrix, Disney’s Inside Out, and Brave New World.
 
+The Matrix - Which is the more true outside layer when it comes to socially constructed reality? Maybe it's matrices all the way up.
+Inside Out - Revolutionary in its implication that the protagonist does not have free will, but is controlled by the interplay of biochemical signals, personified as characters such as "Joy", "Anger" inside her.
+Brave New World - How do you criticize a world which feels wrong to our sensibilities but whose inhabitants are engineered to be happy and have no complaints?
+
 ## Part V Resilience
 
 ## Ch. 19 Education
 
 Instead of memorizing information, people need the ability to make sense of information, to tell the difference between what is important and what is unimportant, and to combine this into a broad picture of the world. Teaching will have to prepare students for drastic career changes, teaching mental flexibility and emotional balance.
 
-## Ch 20 Meaning
+## Ch. 20 Meaning
 
 Goes over different scripts humans have accepted to give their lives meaning. “Like movie stars, humans like only those scripts that reserve an important role for them.” A successful story does not have to explain the world, but merely offer people a protagonist role and keep their attention. “People may display the same murderous fanaticism for the sake of a thousand year old nation as for the sake of a billion year old god. People are just not good with large numbers. In most cases, it takes surprisingly little to exhaust our imagination.” Many stories are held together by the social institutions that depend on them rather than by their supporting evidence, which can be very flimsy.
 Rituals create the emotional resonance to make a story feel real. In particular, rituals that require sacrifice make stories feel real, because suffering is very real. “Once you suffer for a story, it is usually enough to convince you that the story is real. Maybe you are just paying the price of your gullibility. However, most people don’t like to admit they are fools. Consequently, the more they sacrifice for a particular belief, the stronger their faith becomes.”
