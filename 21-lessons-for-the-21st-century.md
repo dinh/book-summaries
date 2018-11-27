@@ -1,6 +1,7 @@
 # 21 lessons for the 21st Century
 
-Intro:
+#### Intro:
+
 In a world deluged by irrelevant information, clarity is power.
 Intend to write about important challenges and choices of this century.
 
