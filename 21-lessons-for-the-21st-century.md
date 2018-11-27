@@ -12,7 +12,7 @@ Technological progress in information tech and biotech present new challenges. W
 Artificial intelligence and biotechnology are giving humanity the power to reshape and re-engineer life.
 “Philosophers are very patient people, but engineers are far less so, and investors are the least patient of all. If you don’t know hat to do with the power to engineer life, market forces will not wait a thousand years for you too come up with an answer.
 
-Will discuss shortcomings of the liberal worldview and the democratic system, because it is the most versatile and successful model humans have developed so far, so we much understand its limitations in order to understand how to adapt i.
+Will discuss shortcomings of the liberal worldview and the democratic system, because it is the most versatile and successful model humans have developed so far, so we much understand its limitations in order to understand how to adapt it.
 Critical thinking bout liberalism and democracy might be hijacked by autocrats and various illiberal movements, who are happy to debate the problems of liberal democracy, but will not tolerate criticism directed at them. “It is a mark of illiberal regimes that they make free speech more difficult even outside their borders.” As author, chose to take the risk of speaking openly in order to think critically about the future of our species.
 
 ## Ch. 1 Disillusionment
@@ -24,18 +24,18 @@ Now there is no dominant human story, which produces a sense of disorientation a
 #### Tech accelerating change:
 
 Technological disruption has moved so fast that it cannot be democratically understood and regulated. Now, we are approaching a point where we can shape humans themselves, not just the external world. “We will learn how to design brains, extend lives, and kill thoughts at our discretion. Nobody knows what the consequences will be. Humans were always far better at inventing tools than using them wisely.”
-Ordinary people may not understand these advances, but they do have an increasing sense that the future no longer features them as the protagonist. “In the 20th century, the masses revolted against exploitation and sought to translate their vital role int eh economy into political power. Now the masses fear irrelevance, and they are frantic to use their remaining political power before it is too late… It is much harder to struggle against irrelevance than against exploitation.”
+Ordinary people may not understand these advances, but they do have an increasing sense that the future no longer features them as the protagonist. “In the 20th century, the masses revolted against exploitation and sought to translate their vital role in the economy into political power. Now the masses fear irrelevance, and they are frantic to use their remaining political power before it is too late… It is much harder to struggle against irrelevance than against exploitation.”
 
 #### Liberalism’s crisis:
 
-Fascism and communism both had global narratives that challenged liberalism. In this moment, the challenges are not a coherent ideological opponent, but a more nihilistic, local reactionary movement. “the breakdown of liberalism is tentatively filled by nostalgic fantasies about some local golden past.” Despite liberalism’s shortcomings, it has a much better record than its alternatives, producing unprecedented peace and prosperity. However, is has no answers to the biggest problems we face: ecological collapse and technological disruption. Liberalism relied on economic growth to solve problems, promising everyone a slice of a growing pie. But the imperative for economic growth is the cause of the ecological crisis, and increases technological disruption because it is predicate don the invention of more and more disruptive technologies.
+Fascism and communism both had global narratives that challenged liberalism. In this moment, the challenges are not a coherent ideological opponent, but a more nihilistic, local reactionary movement. “the breakdown of liberalism is tentatively filled by nostalgic fantasies about some local golden past.” Despite liberalism’s shortcomings, it has a much better record than its alternatives, producing unprecedented peace and prosperity. However, is has no answers to the biggest problems we face: ecological collapse and technological disruption. Liberalism relied on economic growth to solve problems, promising everyone a slice of a growing pie. But the imperative for economic growth is the cause of the ecological crisis, and increases technological disruption because it is predicated on the invention of more and more disruptive technologies.
 People have expected their children to have better lives than them for several generation, but in the coming years, the younger generation might be lucky to simply preserve the same standard of living as their parents.
 Can liberalism reinvent itself again, like it did in the 30’s and 60’s, or is it time for a new story that goes beyond not only old gods and nations but even the core modern values of liberty and equality?
 
 ## Ch. 2 Work
 
 Will automation put many people out of work, or will it continue creating new, different types of jobs?
-Humans have physical and cognitive capabilities. In the industrial revolution, machines replaces lots of physical labor, but created new jobs that required cognitive labor. But when AI begins to outperform humans at jobs that require cognitive labor, we don’t know know of any third field of activity where humans will have an edge.
+Humans have physical and cognitive capabilities. In the industrial revolution, machines replaced lots of physical labor, but created new jobs that required cognitive labor. But when AI begins to outperform humans at jobs that require cognitive labor, we don’t know know of any third field of activity where humans will have an edge.
 If human cognition and intuition is just pattern recognition and biochemical algorithms, there is no reasons computers cannot perform these functions. And we must not compare a single human to a single computer. The power of computing is the connectivity and ability to update. We should comparing the abilities of a collection of human individuals to the abilities of an integrated network. Self driving cars could obey all local traffic laws with perfect coordination, AI doctors all of the world could be instantly updated to include state-of-the-art diagnostic criteria.
 Even creative jobs stand to be automated. Art strives to produce some emotional reaction in people. Algorithmically tailored music could someday be tuned to your emotions more effectively than any human created piece.
 New jobs that require AI-human cooperation will be created, but these will require high levels of expertise. People will likely not be capable of retraining from low skill to high skill jobs quickly enough. We may suffer simultaneously from high unemployment and a shortage of skilled labor.
@@ -43,7 +43,7 @@ It took over a century to adjust to the Industrial revolution. This time, we wil
 
 #### Potential solutions:
 
-Governments could slow the pace of automation, or subsidize a lifelong education sector and provide e safety net for individuals during periods of transition.
+Governments could slow the pace of automation, or subsidize a lifelong education sector and provide a safety net for individuals during periods of transition.
 But if a significant percentage of humanity is pushed out of the job market, we will have to explore new models for post work societies and economics.
 You would expect automation’s disruption of capitalism to revive communism, but 20th century communism was build on the working class’s vital role in the economy, trying to translate that economic power into political power. How do you struggle against irrelevance rather than exploitation?
 New models must aim to protect humans, not jobs. One proposal is universal basic income. Another proposes to widen the range of activities considered as “jobs”, such as childcare and volunteer work. Or instead of giving money to people, the government could subsidize all social services, and provide free education, healthcare, transportation, etc. This is basically the communist utopian vision. But the real problem is defining “universal” and “basic.”
@@ -188,7 +188,7 @@ Liberal thought and democracy believe in the rational individual. Yet we often t
 #### The black hole of power
 
 Not only are crowds fallible, but so are leaders. Most leaders are too busy to spend time deeply learning and seeking the truth. “If you cannot afford to waste time, you will never find the truth. Worse still, great power inevitably distorts the truth. Power is all about changing reality rather than seeing it for what it is.” Everyone around powerful people have some agenda, so cannot be trusted to give objective feedback.
-“If you really want truth, you need to escape the black hold of power and allow yourself to waste a lot of time wandering here and there on the periphery. Revolutionary knowledge rarely makes is way to the center, because the center is built on existing knowledge.”
+“If you really want truth, you need to escape the black hole of power and allow yourself to waste a lot of time wandering here and there on the periphery. Revolutionary knowledge rarely makes is way to the center, because the center is built on existing knowledge.”
 
 ## Ch. 16 Justice
 
