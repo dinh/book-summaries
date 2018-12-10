@@ -30,7 +30,7 @@ SV companies resist localization that goes beyond superficial changes, seeing th
 ## Ch 3. China's Alternate Internet Universe
 
 China's tech hub Zhongguancun was created by a government initiative to create a startup ecosystem. They cleared out a street, named it the Avenue of the Entrepreneurs, and got investors and entrepreneurs to come.
-A giant government initiative in 2014, "Mass Innovation and Mass Entrepreneurship", started "innovation zones" all across the country. Top-down innovation succeeded in kickstarting a domestic startup ecosystem. And they're applying this model again to AI.
+A giant government initiative in 2014, "Mass Innovation and Mass Entrepreneurship", started "innovation zones" all across the country. Top-down innovation succeeded in kickstarting a domestic startup ecosystem. (And they're applying this model again to AI.)
 They directly subsidized tech entrepreneurs, gave tax discounts and rent rebates to startups. Created government-backed "guiding funds" to attract more private venture capital, increasing the upside for private investors by capping the government's upside from the fund at a predetermined percentage. Opened 6600 new startup incubators across the nation. Used government money to brute-force a fast transformation, at the cost of some inefficiency - some things never paid off, but nationwide there was a huge impact.
 China's data advantage - a lot of people, with little privacy protections.
 
@@ -47,3 +47,35 @@ If next breakthrough happens in a corporate research division, it could pose a t
 Obama's AI plan barely made a splash, and Trump proposed cutting funding for AI research. In contrast, the Chinese government's AI plan called for China to reach the top tier of AI economies by 2020, and set of a national mobilization. Is likely to be somewhat inefficient by extremely effective.
 
 China has techno-utilitarian approach, will roll something out despite downsides as long as there are significant upsides. Will make big bets on game-changing technologies.
+
+## Ch. 5 The Four Waves of AI
+
+Internet, business, perception, and autonomous AI. Believes that in 5 years China will close the gap. Will lag in the corporate world, but may leapfrog ahead in public services and industries.
+
+Province of Zhejiang has announced plans to build first intelligent superhighway, outfitted for autonomous and electric vehicles. Xiong'an New Area 60 miles south of Beijing is being turned into government showcase city as big as Chicago, built to accomodate autonomous vehicles. If the bottleneck is technology, SV has a headstart, but if it's policy, the Chinese government's approach will probably win out.
+
+## Ch. 6 Utopia, Dystopia, and the Real AI Crisis
+
+Some fear imminent AGI and the singularity, but there is no known engineering route to get there, and it would require a series of foundational breakthroughs. We're at a new plateau, and the real threat here is a crisis of jobs and inequality.
+
+A revolution in manufacturing will kick away the ladder of economic development which allowed China to lift itself out of poverty. Within countries, companies with an AI and data advantage will tend toward monopoly, eliminating competition and concentrating economic power. And people displaced by machines will face the existential question of what it means to be human in an age of intelligent machines.
+
+General-purpose technologies (GPTs) are significant enough to be in a class of their own, and only three recent ones stand out: the steam engine, electricity, and information and communication technologies. Steam and electricity created the modern factory system, led to deskilling - broke previously high-skill tasks into simple components done by low-skill workers. ICTs led to growth in productivity, but stagnation of wages. Is skill biased in favor of high skilled workers, empowers the world's top knowledge workers and undercuts the economic role of many in the middle. AI replaces tasks that can be optimized using data and do not require social interaction. The transition will be much faster this time. Many professions that form the bedrock of the middle class will be hollowed out.
+
+## Ch. 7 The Wisdom of Cancer
+
+Author got cancer, stopped workaholic lifestyle to refocus on love and relationships. Had revelation around centering human role in economy around care work, while letting the rest be automated.
+
+## Ch. 8 A Blueprint for Human Coexistence with AI
+
+Technical fixes for adapting to automation: Reduce, retrain, redistribute.
+
+UBI - pay everyone. A simple technical solution, but would cause major change in social contract. Seems like a quick fix to problems caused by tech favored by SV elites because it seems like a palliative. A magic wand. Will it benefit people across society or simply prevent social upheaval? Will it build new institutions or simply absolve consciences?
+
+Another proposal: Social Investment Stipend, for care, service, and education. Like a foundation to fund and reward socially beneficial activities. Provides stipend in exchange for participation in prosocial activities.
+
+Start by increasing government support for parents, subsidies for job retraining, expand number of public school teachers.
+
+## Ch 9. Our Global AI Story
+
+AI development is seen by some as a zero-sum game, where China's win is America's loss, and vice versa. But this should not be a new Cold War. The greatest potential for disruption is domestic.
