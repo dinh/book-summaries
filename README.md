@@ -2,7 +2,7 @@
 
 Notes and summaries of some books.
 
-[The human use of human beings, Norbert Weiner](the-human-use-of-human-beings.md) - One of my favorite books. Norbert Weiner was a prophet.
+[The human use of human beings, Norbert Weiner](the-human-use-of-human-beings.md) - One of my favorite books. Norbert Weiner predicted the potential and pitfalls of our era before anyone else.
 
 [Surveillance Capitalism, by Shoshana Zuboff](surveillance-capitalism.md) - Lots of stories from battles over privacy that were fought and lost. Framing of user data as the raw material of the industry.
 
